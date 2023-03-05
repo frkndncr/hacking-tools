@@ -15,15 +15,6 @@ print("#####################################")
 
 time.sleep(1)
 os.system("clear")
-print("#####################################")
-print("                                     ")
-print("                                     ")
-print("                                     ")
-print("        B3ZKURT HACKİNG TOOLS        ")
-print("                                     ")
-print("                                     ")
-print("                                     ")
-print("#####################################")
 
 print("")
 print("")
@@ -69,8 +60,8 @@ islem = input("İşlem Numarası Giriniz: ")
 chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
 
 if islem =="1":
-    os.system("git clone https://github.com/b3zkurt/shell-scanner")
-    webbrowser.get(chrome_path).open("https://github.com/b3zkurt/shell-scanner")
+    os.system("git clone https://github.com/frkndncr/shell-scanner")
+    webbrowser.get(chrome_path).open("https://github.com/frkndncr/shell-scanner")
 
 if islem =="2":
     os.system("git clone https://github.com/hawk-unity/hawkadmin")
@@ -146,7 +137,7 @@ if islem =="22":
     webbrowser.get(chrome_path).open("https://github.com/m-primo/Facebook-Brute-Force")
 
 if islem =="23": 
-    webbrowser.get(chrome_path).open("https://github.com/B3zkurt/instagram-flood")
+    webbrowser.get(chrome_path).open("https://github.com/frkndncr/instagram-flood")
 
 if islem =="24": 
     webbrowser.get(chrome_path).open("https://github.com/An0nUD4Y/blackeye")
@@ -162,7 +153,7 @@ if islem =="26":
     webbrowser.get(chrome_path).open("https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnNjMm9ZZ1ROOWxIdmJKYVhfNXQtaFpKaEZQQXxBQ3Jtc0trRzNGQUhQdGxXd0hrd3dYTkhiZktzMG9UVEhQV1B4TDFTdk8xOHFJWmVVNXlYRGxJNy1FbmFoTEw1cWdnOEZaSEUtaWRzZTRvWWV3WlQtd1JaRW9fdzFNbkMxU29NTThRY1MwTTU2MzVTT0Z6Sl9UQQ&q=https%3A%2F%2Fwww.dosya.tc%2Fserver34%2Fybvg5h%2Fbf.rar.html")
 
 if islem =="27":
-    webbrowser.get(chrome_path).open("https://github.com/B3zkurt/ftp/blob/main/pass.txt")
+    webbrowser.get(chrome_path).open("https://github.com/frkndncr/ftp/blob/main/pass.txt")
 
 if islem =="28":
     webbrowser.get(chrome_path).open("https://gist.github.com/m0k1/ada77aacefe3dcae7bc2")
